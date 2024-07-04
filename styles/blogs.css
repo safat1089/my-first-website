@@ -1,5 +1,14 @@
-div{
+.blog1{
     background-color: tomato;
     margin: 20px;
     padding: 10px;
+}
+
+.blog2{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
